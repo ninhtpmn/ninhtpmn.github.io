@@ -1,0 +1,103 @@
+<html>
+
+<style>
+#toast {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+#toast.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 1s;
+    animation: fadein 0.5s, fadeout 0.5s 1s;
+}
+
+@-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;} 
+    to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {bottom: 30px; opacity: 1;} 
+    to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
+</style>
+
+<body>
+	<textarea id = "input" style ="width:800px; height:300px"></textarea>
+	</br>
+	<button onclick="replace()">Replace</button>
+	<p></p>
+	<button id = "copy" style = "display:none" onclick = "copyToClipboard()">Copy result</button>
+	<p>Result:</p>
+	<textarea id = "result" style ="width:800px; height:200px"></textarea>
+	<p id="toast">Copied</p>
+	<audio autoplay id = "audio" onended = "randomPlay()"><source></audio>
+	
+	<script>
+	function replace() {
+		var val = document.getElementById("input").value;
+		while(val.includes("<") || val.includes(">")){
+			val = val.replace('<', "&lt;").replace('>', "&gt;");
+		}
+		document.getElementById("result").value = "<pre><code>" + val + "</pre></code>";
+
+		var btnCopy = document.getElementById("copy").style.display = "block";
+	}
+	
+	function copyToClipboard() {
+		var copyText = document.getElementById("result").value;
+		
+		var tempInput = document.createElement("textarea");
+		tempInput.value = copyText;
+		document.body.insertBefore(tempInput, document.body.lastChild);
+		tempInput.select();
+		document.execCommand("copy");
+		tempInput.remove();
+		
+		var toast = document.getElementById("toast");
+		toast.className = "show";
+		setTimeout(function(){ 
+			toast.className = toast.className.replace("show", ""); 
+		}, 1500);
+	}
+	
+	function randomPlay(){
+		var audioArray = [
+			"audio/Ryu.mp3",
+			"audio/Ken.mp3",
+			"audio/Guile.mp3"
+		];
+		var position = Math.floor(Math.random() * audioArray.length);
+		var audioElement = document.getElementById("audio");
+		audioElement.firstChild.setAttribute("src", audioArray[position]);
+		audioElement.load();
+		audioElement.play();
+	}
+	randomPlay();
+	</script>
+	
+</body>
+
+</html>
