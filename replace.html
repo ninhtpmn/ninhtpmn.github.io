@@ -54,8 +54,21 @@
 	<textarea id = "result" style ="width:800px; height:200px"></textarea>
 	<p id="toast">Copied</p>
 	<audio autoplay id = "audio" onended = "randomPlay()"><source></audio>
+        <button id = "control" onclick = "pause_play()">Pause sound</button>
 	
 	<script>
+        function pause_play() {
+		var audioElement = document.getElementById("audio");
+		var control = document.getElementById("control");
+		if (audioElement.paused) {
+			audioElement.play();
+			control.textContent = "Pause sound";
+		} else {
+			audioElement.pause();
+			control.textContent = "Play sound";
+		}
+	}
+
 	function replace() {
 		var val = document.getElementById("input").value;
 		while(val.includes("<") || val.includes(">")){
