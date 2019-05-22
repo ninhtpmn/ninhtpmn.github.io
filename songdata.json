@@ -1,0 +1,30 @@
+[
+  {
+    "remoteId": 123,
+    "group": "A",
+    "name": "A Href hflydragon",
+    "camams": [
+      "Cam Am 1",
+      "Cam Am 2",
+      "Cam Am 3"
+    ],
+    "sheets": [
+      "https://image-us.24h.com.vn/upload/4-2018/images/2018-11-15//1542276273-652-kieu-trinh-d-1542276251-width640height480.jpg@#!https://kenh14cdn.com/2017/17990574-1868501496734747-8689345437027425205-o-1496912245956.jpg"
+    ],
+    "note": "A Href hflydragon"
+  },
+  {
+    "remoteId": 111,
+    "group": "Z",
+    "name": "Z HELLP Href hflydragon",
+    "camams": [
+      "Cam Am Z1",
+      "Cam Am Z2",
+      "Cam Am Z3"
+    ],
+    "sheets": [
+      "http://streaming1.danviet.vn/upload/2-2017/images/2017-06-09/149696624674311-17458428_1855479664703597_383401319146676655_n.jpg@#!https://image-us.24h.com.vn/upload/4-2018/images/2018-11-15//1542276273-652-kieu-trinh-d-1542276251-width640height480.jpg@#!https://kenh14cdn.com/2017/17990574-1868501496734747-8689345437027425205-o-1496912245956.jpg"
+    ],
+    "note": "ZA Href hflydragon"
+  }
+]
