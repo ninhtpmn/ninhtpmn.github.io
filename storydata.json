@@ -1,5 +1,9 @@
 {
+<<<<<<< a585fa5e9f44f0c57faba9eb908b422a52fca4fd
   "book": [
+=======
+  "books": [
+>>>>>>> AddStoryDataTest
     {
       "id": 1,
       "chapters": [
