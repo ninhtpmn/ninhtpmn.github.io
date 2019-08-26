@@ -2,36 +2,1854 @@
   "books": [
     {
       "id": 1,
+      "name": "Thành Cổ Tinh Tuyệt",
       "chapters": [
         {
           "chapter": 1,
-          "name": "Tap 1 - Chapter 1 Name",
-          "link": "https://ninhtpmn.github.io/audioFiles/1_1.mp3"
+          "name": "Chương 1 - Ả người giấy và anh bạn chuột",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_01.mp3"
         },
         {
           "chapter": 2,
-          "name": "Tap 1 - Chapter 2 Name",
-          "link": "https://ninhtpmn.github.io/audioFiles/1_2.mp3"
+          "name": "Chương 2 - Thập lục tự âm dương phong thuỷ bí thuật",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_02.mp3"
+        },
+        {
+          "chapter": 3,
+          "name": "Chương 3 - Ngôi mộ trong núi",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_03.mp3"
+        },
+        {
+          "chapter": 4,
+          "name": "Chương 4 - Dòng Côn Luân không băng",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_04.mp3"
+        },
+        {
+          "chapter": 5,
+          "name": "Chương 5 - Bọ lửa",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_05.mp3"
+        },
+        {
+          "chapter": 6,
+          "name": "Chương 6 - Lầu ma chín tầng",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_06.mp3"
+        },
+        {
+          "chapter": 7,
+          "name": "Chương 7 - Kỳ nhông chúa",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_07.mp3"
+        },
+        {
+          "chapter": 8,
+          "name": "Chương 8 - Động đất",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_08.mp3"
+        },
+        {
+          "chapter": 9,
+          "name": "Chương 9 - Cuộc trùng phùng",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_09.mp3"
+        },
+        {
+          "chapter": 10,
+          "name": "Chương 10 - Răng vàng",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_10.mp3"
+        },
+        {
+          "chapter": 11,
+          "name": "Chương 11 - Hắc phong khẩu – Dã nhân câu",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_11.mp3"
+        },
+        {
+          "chapter": 12,
+          "name": "Chương 12 - Bổng nguyệt cầu",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_12.mp3"
+        },
+        {
+          "chapter": 13,
+          "name": "Chương 13 - Ma thổi đèn",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_13.mp3"
+        },
+        {
+          "chapter": 14,
+          "name": "Chương 14 - Xích hống",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_14.mp3"
+        },
+        {
+          "chapter": 15,
+          "name": "Chương 15 - Căn cứ bí mật ngầm của quân Quan Đông",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_15.mp3"
+        },
+        {
+          "chapter": 16,
+          "name": "Chương 16 - Mật thất",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_16.mp3"
+        },
+        {
+          "chapter": 17,
+          "name": "Chương 17 - Lười đất thảo nguyên",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_17.mp3"
+        },
+        {
+          "chapter": 18,
+          "name": "Chương 18 - Nga thân ly văn song ly bích",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_18.mp3"
+        },
+        {
+          "chapter": 19,
+          "name": "Chương 19 - Đoàn khảo cổ",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_19.mp3"
+        },
+        {
+          "chapter": 20,
+          "name": "Chương 20 - Huyệt ma trong biển cát",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_20.mp3"
+        },
+        {
+          "chapter": 21,
+          "name": "Chương 21 - Thành cổ Tây Dạ - Phần 1",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_21.mp3"
+        },
+        {
+          "chapter": 21,
+          "name": "Chương 21 - Thành cổ Tây Dạ - Phần 2",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_22.mp3"
+        },
+        {
+          "chapter": 22,
+          "name": "Chương 22 - Sa mạc đen",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_23.mp3"
+        },
+        {
+          "chapter": 23,
+          "name": "Chương 23 - Hẻm núi Zhaklama",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_24.mp3"
+        },
+        {
+          "chapter": 24,
+          "name": "Chương 24 - Thác đen",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_25.mp3"
+        },
+        {
+          "chapter": 25,
+          "name": "Chương 25 - Đèn thần cột đá",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_26.mp3"
+        },
+        {
+          "chapter": 26,
+          "name": "Chương 26 - Đường hầm bí mật",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_27.mp3"
+        },
+        {
+          "chapter": 27,
+          "name": "Chương 27 - Kho báu",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_28.mp3"
+        },
+        {
+          "chapter": 28,
+          "name": "Chương 28 - Hoa thơm xác",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_29.mp3"
+        },
+        {
+          "chapter": 29,
+          "name": "Chương 29 - Thạch thất",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_30.mp3"
+        },
+        {
+          "chapter": 30,
+          "name": "Chương 30 - Lời sấm truyền cổ xưa",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_31.mp3"
+        },
+        {
+          "chapter": 31,
+          "name": "Chương 31 - Thật và giả",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_32.mp3"
+        },
+        {
+          "chapter": 32,
+          "name": "Chương 32 - Trúng tà",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_33.mp3"
+        },
+        {
+          "chapter": 33,
+          "name": "Chương 33 - Đào thoát",
+          "link": "https://archive.org/download/mathoident103_201908/MaThoiDenT1_34.mp3"
         }
       ]
     },
     {
       "id": 2,
+      "name": "Mê Động Long Lĩnh",
       "chapters": [
         {
           "chapter": 1,
-          "name": "Tap 2 - Chapter 1 Name",
-          "link": "https://ninhtpmn.github.io/audioFiles/1_1.mp3"
+          "name": "Chương 1 - Chiếc hài thơm",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p01.mp3"
         },
         {
           "chapter": 2,
-          "name": "Tap 2- Chapter 2 Name",
-          "link": "https://ninhtpmn.github.io/audioFiles/1_2.mp3"
+          "name": "Chương 2 - Vượt sông",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p02.mp3"
         },
         {
           "chapter": 3,
-          "name": "Tap 2- Chapter 3 Name",
-          "link": "https://ninhtpmn.github.io/audioFiles/1_3.mp3"
+          "name": "Chương 3 - Truyền thuyết",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p03.mp3"
+        },
+        {
+          "chapter": 4,
+          "name": "Chương 4 - Lên kế hoạch\nChương 5 - Dốc bàn xà\nChương 6 - Ngư cốt miếu - Phần 1",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p04.mp3"
+        },
+        {
+          "chapter": 6,
+          "name": "Chương 6 - Ngư cốt miếu - Phần 2",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p05.mp3"
+        },
+        {
+          "chapter": 7,
+          "name": "Chương 7 - Đường hầm trộm mộ",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p06.mp3"
+        },
+        {
+          "chapter": 8,
+          "name": "Chương 8 - Minh điện",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p07.mp3"
+        },
+        {
+          "chapter": 9,
+          "name": "Chương 9 - Nội tang oan",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p08.mp3"
+        },
+        {
+          "chapter": 10,
+          "name": "Chương 10 - Khuôn mặt",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p09.mp3"
+        },
+        {
+          "chapter": 11,
+          "name": "Chương 11 - Vết mẻ hình trăng khuyết",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p10.mp3"
+        },
+        {
+          "chapter": 12,
+          "name": "Chương 12 - Hồn mộ",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p11.mp3"
+        },
+        {
+          "chapter": 13,
+          "name": "Chương 13 - Bậc thang huyền hồn",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p12.mp3"
+        },
+        {
+          "chapter": 14,
+          "name": "Chương 14 - Nhện chàm đen mặt người\nChương 15 - Điện thần dưới lòng đất",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p13.mp3"
+        },
+        {
+          "chapter": 16,
+          "name": "Chương 16 - Ngọc Văn Hương\nChương 17 - Long cốt - Phần 1",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p14.mp3"
+        },
+        {
+          "chapter": 17,
+          "name": "Chương 17 - Long cốt - Phần 2\nChương 18,19 - Văn tự mật",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p15.mp3"
+        },
+        {
+          "chapter": 20,
+          "name": "Chương 20 - Hồi tưởng\nChương 21 - Ban Sơn đạo nhân",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p16.mp3"
+        },
+        {
+          "chapter": 22,
+          "name": "Chương 22 - Mèo hoang\nChương 23 - Hắc Thủy thành\nChương 24 - Linh mục",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p17.mp3"
+        },
+        {
+          "chapter": 25,
+          "name": "Chương 25 - Thông thiên Đại Phật tự",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p18.mp3"
+        },
+        {
+          "chapter": 26,
+          "name": "Chương 26 - Xương trắng",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p19.mp3"
+        },
+        {
+          "chapter": 27,
+          "name": "Chương 27 - Tượng Phật đen\nChương 28 - Trùng ngọc",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p20.mp3"
+        },
+        {
+          "chapter": 29,
+          "name": "Chương 29 - Khói ma",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p21.mp3"
+        },
+        {
+          "chapter": 30,
+          "name": "Chương 30 - Quyết định",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p22.mp3"
+        },
+        {
+          "chapter": 31,
+          "name": "Chương 31 - Thạch bí điếm\nChương 32 - Quẻ bói của lão mù",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p23.mp3"
+        },
+        {
+          "chapter": 33,
+          "name": "Chương 33 - Đầm nước",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p24.mp3"
+        },
+        {
+          "chapter": 34,
+          "name": "Chương 34 - Chiếc chum kỳ lạ",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p25.mp3"
+        },
+        {
+          "chapter": 35,
+          "name": "Chương 35 - Manh mối",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p26.mp3"
+        },
+        {
+          "chapter": 36,
+          "name": "Chương 36 - Mộ Hiến Vương",
+          "link": "https://archive.org/download/ma-thoi-den-me-dong-long-linh/ma-thoi-den-t2-p27end.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Trùng Cốc Vân Nam",
+      "chapters": [
+        {
+          "chapter": 1,
+          "name": "Chương 1 - Tai nạn giao thông",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p01.mp3"
+        },
+        {
+          "chapter": 2,
+          "name": "Chương 2 - Quán trọ Thái Vân\nChương 3 - Chiến dịch Hồ Điệp",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p02.mp3"
+        },
+        {
+          "chapter": 4,
+          "name": "Chương 4 - Treo ngược",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p03.mp3"
+        },
+        {
+          "chapter": 5,
+          "name": "Chương 5 - Nước sâu mười ba mét\nChương 6 - Lưỡi dao",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p04.mp3"
+        },
+        {
+          "chapter": 7,
+          "name": "Chương 7 - Băng núi vượt sông",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p05.mp3"
+        },
+        {
+          "chapter": 8,
+          "name": "Chương 8 - Rừng rậm",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p06.mp3"
+        },
+        {
+          "chapter": 9,
+          "name": "Chương 9 - Tín hiệu ma",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p07.mp3"
+        },
+        {
+          "chapter": 10,
+          "name": "Chương 10 - Máy đánh chữ\nChương 11 - Lệnh tìm kiếm",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p08.mp3"
+        },
+        {
+          "chapter": 12,
+          "name": "Chương 12 - Máu đỏ\nChương 13 - Thăng quan phát tài",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p09.mp3"
+        },
+        {
+          "chapter": 14,
+          "name": "Chương 14 - Bủa vây tuyệt đối\nChương 15 - Trấn Lăng Phả",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p10.mp3"
+        },
+        {
+          "chapter": 16,
+          "name": "Chương 16 - Trước miệng cốc\nChương 17 - Khu vực cấm",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p11.mp3"
+        },
+        {
+          "chapter": 18,
+          "name": "Chương 18 - Chính khúc vòng quanh chầu về núi",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p12.mp3"
+        },
+        {
+          "chapter": 19,
+          "name": "Chương 19 - Khu rừng hóa thạch\nChương 20 - Cái xác chết trôi",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p13.mp3"
+        },
+        {
+          "chapter": 21,
+          "name": "Chương 21 - Hang khác đáy\nChương 22 - Bí mật về Sơn thần",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p14.mp3"
+        },
+        {
+          "chapter": 23,
+          "name": "Chương 23 - Đống thây",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p15.mp3"
+        },
+        {
+          "chapter": 24,
+          "name": "Chương 24 - Giáp ma vảy rồng",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p16.mp3"
+        },
+        {
+          "chapter": 25,
+          "name": "Chương 25 - Hộp Pandora",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p17.mp3"
+        },
+        {
+          "chapter": 26,
+          "name": "Chương 26 - Bào thai động đậy\nChương 27 - Gậy long hổ",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p18.mp3"
+        },
+        {
+          "chapter": 28,
+          "name": "Chương 28 - Một chia ba\nChương 29 - Quỷ thai",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p19.mp3"
+        },
+        {
+          "chapter": 30,
+          "name": "Chương 30 - Quỷ khốc thần sầu\nChương 31 - Tách vỏ chui ra",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p20.mp3"
+        },
+        {
+          "chapter": 32,
+          "name": "Chương 32 - Cung điện trên trời\nChương 33 - Nước biếc bí hiểm",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p21.mp3"
+        },
+        {
+          "chapter": 34,
+          "name": "Chương 34 - Xoáy nước đen",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p22.mp3"
+        },
+        {
+          "chapter": 34,
+          "name": "Chương 35 - Cung lăng vân, điện hội tiên",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p23.mp3"
+        },
+        {
+          "chapter": 36,
+          "name": "Chương 36 - Hậu điện",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p24.mp3"
+        },
+        {
+          "chapter": 37,
+          "name": "Chương 37 - Lửa nung\nChương 38 - Cửa sổ nhà trời",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p25.mp3"
+        },
+        {
+          "chapter": 39,
+          "name": "Chương 39 - Cái lưỡi",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p26.mp3"
+        },
+        {
+          "chapter": 40,
+          "name": "Chương 40 - Thủy Nhãn",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p27.mp3"
+        },
+        {
+          "chapter": 41,
+          "name": "Chương 41 - Gõ hỏi cửa trời\nChương 42 - Ba vị quốc vương",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p28.mp3"
+        },
+        {
+          "chapter": 43,
+          "name": "Chương 43 - Nến trường sinh",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p29.mp3"
+        },
+        {
+          "chapter": 44,
+          "name": "Chương 44 - Thạch tinh",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p30.mp3"
+        },
+        {
+          "chapter": 45,
+          "name": "Chương 45 - Đoạt hồn - Phần 1",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p31.mp3"
+        },
+        {
+          "chapter": 45,
+          "name": "Chương 45 - Đoạt hồn - Phần 2\nChương 46 - Cảnh ngắm hồ",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p32.mp3"
+        },
+        {
+          "chapter": 47,
+          "name": "Chương 47 - Cái xác thứ mười",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p33.mp3"
+        },
+        {
+          "chapter": 48,
+          "name": "Chương 48 - Chặt đầu",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p34.mp3"
+        },
+        {
+          "chapter": 49,
+          "name": "Chương 49 - Nhiễm độc lan nhanh",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p35.mp3"
+        },
+        {
+          "chapter": 50,
+          "name": "Chương 50 - Oan gia ngõ hẹp",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p36.mp3"
+        },
+        {
+          "chapter": 51,
+          "name": "Chương 51 - Con số bí ẩn",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p37.mp3"
+        },
+        {
+          "chapter": 52,
+          "name": "Chương 52 - Ông già Khang - Ba\nChương 53 - Quỷ mẫu kích Bát đồ\nChương 54 - Đêm trăng tìm sói",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p38.mp3"
+        },
+        {
+          "chapter": 55,
+          "name": "Chương 55 - Chiếc Ka u của Cơ Ma\nChương 56 - Tinh địa không hành",
+          "link": "https://archive.org/download/ma-thoi-den-t3p25/ma-thoi-den-t3p39%20end.mp3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Thần Cung Côn Luân",
+      "chapters": [
+        {
+          "chapter": 1,
+          "name": "Chương 1 - Kẻ sưu tầm cái chết",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p1.mp3"
+        },
+        {
+          "chapter": 2,
+          "name": "Chương 2 - Băng xuyên thủy tinh thi",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p2.mp3"
+        },
+        {
+          "chapter": 3,
+          "name": "Chương 3 - Ấn Phát Khâu\nChương 4 - Lợi thiệp Đại Xuyên",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p03.mp3"
+        },
+        {
+          "chapter": 5,
+          "name": "Chương 5 - Mắt Bạc Cổ Cách",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p04.mp3"
+        },
+        {
+          "chapter": 6,
+          "name": "Chương 6 - Hồ tiên nữ",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p05.mp3"
+        },
+        {
+          "chapter": 7,
+          "name": "Chương 7 - Hang Phật Luân Hồi\nChương 8 - Rình rập ban đêm",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p06.mp3"
+        },
+        {
+          "chapter": 9,
+          "name": "Chương 9 - Kế hoạch B",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p07.mp3"
+        },
+        {
+          "chapter": 10,
+          "name": "Chương 10 - Đôi mắt bản năng",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p08.mp3"
+        },
+        {
+          "chapter": 11,
+          "name": "Chương 11 - Tiến vào Kelamer",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p09.mp3"
+        },
+        {
+          "chapter": 12,
+          "name": "Chương 12 - Hoảng hốt",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p10.mp3"
+        },
+        {
+          "chapter": 13,
+          "name": "Chương 13 - Xác ướp kim thân Tuyết Sơn",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p11.mp3"
+        },
+        {
+          "chapter": 14,
+          "name": "Chương 14 - Nô lệ yêu nghiệt",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p12.mp3"
+        },
+        {
+          "chapter": 15,
+          "name": "Chương 15 - Lời nguyền Linh Cái",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p13.mp3"
+        },
+        {
+          "chapter": 16,
+          "name": "Chương 16 - Đánh phủ đầu",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p14.mp3"
+        },
+        {
+          "chapter": 17,
+          "name": "Chương 17 - Nãi cùng Thần Băng",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p15.mp3"
+        },
+        {
+          "chapter": 18,
+          "name": "Chương 18 - Huyết nhĩ hoa đỏ",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p16.mp3"
+        },
+        {
+          "chapter": 19,
+          "name": "Chương 19 - Rùa thoát xác",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p17.mp3"
+        },
+        {
+          "chapter": 20,
+          "name": "Chương 20 - Ngư trận",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p18.mp3"
+        },
+        {
+          "chapter": 21,
+          "name": "Chương 21 - Chúa của Hồ nước\nChương 22 - Đầu bò",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p19.mp3"
+        },
+        {
+          "chapter": 23,
+          "name": "Chương 23 - Tuyến X",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p20.mp3"
+        },
+        {
+          "chapter": 24,
+          "name": "Chương 24 - Thành Ác La Hải đích thực",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p21.mp3"
+        },
+        {
+          "chapter": 25,
+          "name": "Chương 25 - Thất lạc\nChương 26 - Tôm cầu",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p22.mp3"
+        },
+        {
+          "chapter": 27,
+          "name": "Chương 27 - Núi tích đôi",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p23.mp3"
+        },
+        {
+          "chapter": 28,
+          "name": "Chương 28 - Địa đạo trắng",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p24.mp3"
+        },
+        {
+          "chapter": 29,
+          "name": "Chương 29 - Gông cùm đen",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p25.mp3"
+        },
+        {
+          "chapter": 30,
+          "name": "Chương 30 - Người có thể hi sinh",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p26.mp3"
+        },
+        {
+          "chapter": 31,
+          "name": "Chương 31 - Đồng hồ tử vong đếm ngược",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p27.mp3"
+        },
+        {
+          "chapter": 32,
+          "name": "Chương 32 - Lá thăm sinh tử",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p28.mp3"
+        },
+        {
+          "chapter": 33,
+          "name": "Chương 33 - Vật hiến tế",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p29.mp3"
+        },
+        {
+          "chapter": 34,
+          "name": "Chương 34 - Kẻ địch tàng hình\nChương 35 - Huyết tế",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p30.mp3"
+        },
+        {
+          "chapter": 36,
+          "name": "Chương 36 - Hướng Tây Bắc chếch Bắc",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p31.mp3"
+        },
+        {
+          "chapter": 37,
+          "name": "Chương 37 - Hang rắn",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p32.mp3"
+        },
+        {
+          "chapter": 38,
+          "name": "Chương 38 - Thiên nhãn\nChương 39 - Linh hồn khắc trên đá",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p33.mp3"
+        },
+        {
+          "chapter": 40,
+          "name": "Chương 40 - Chết vì đôi mắt - Phần 1",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p34.mp3"
+        },
+        {
+          "chapter": 40,
+          "name": "Chương 40 - Chết vì đôi mắt - Phần 2\nChương 41 - Ban nhạc bremen",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p35.mp3"
+        },
+        {
+          "chapter": 42,
+          "name": "Chương 42 - Hoàn thành tâm nguyện\nChương 43 - Tiền thù lao",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p36.mp3"
+        },
+        {
+          "chapter": 44,
+          "name": "Chương 44 - Con đường chung, nhiệm vụ chung\nChương 45 - Rửa tay gác kiếm",
+          "link": "https://archive.org/download/ma-thoi-den-t4p06/ma-thoi-den-t4p37%28ket%29.mp3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mộ Hoàng Bì Tử",
+      "chapters": [
+        {
+          "chapter": 1,
+          "name": "Chương 1 - Mùa đông đói kém",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p1.mp3"
+        },
+        {
+          "chapter": 2,
+          "name": "Chương 2 - Mộ bì hoàng tử",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p2.mp3"
+        },
+        {
+          "chapter": 3,
+          "name": "Chương 3 - Bẫy đêm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p3.mp3"
+        },
+        {
+          "chapter": 4,
+          "name": "Chương 4 - Truyền thống gấu",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p4.mp3"
+        },
+        {
+          "chapter": 5,
+          "name": "Chương 5 - Cắt tay móc mật",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p5.mp3"
+        },
+        {
+          "chapter": 6,
+          "name": "Chương 6 - Quỷ nha môn",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p6.mp3"
+        },
+        {
+          "chapter": 7,
+          "name": "Chương 7 - Lão điếu gia",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p7.mp3"
+        },
+        {
+          "chapter": 8,
+          "name": "Chương 8 - Thòng lọng",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p8.mp3"
+        },
+        {
+          "chapter": 9,
+          "name": "Chương 9 - Cắt gạch mộ",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p9.mp3"
+        },
+        {
+          "chapter": 10,
+          "name": "Chương 10 - Lá thư đến từ thảo nguyên",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p10.mp3"
+        },
+        {
+          "chapter": 11,
+          "name": "Chương 11 - Khu vực cấm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p11.mp3"
+        },
+        {
+          "chapter": 12,
+          "name": "Chương 12 - Khắc Luân Tả Kỳ dưới bầu trời đêm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p12.mp3"
+        },
+        {
+          "chapter": 13,
+          "name": "Chương 13 - Ruồi trâu",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p13.mp3"
+        },
+        {
+          "chapter": 14,
+          "name": "Chương 14 - Mất tích",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5p14.mp3"
+        },
+        {
+          "chapter": 15,
+          "name": "Chương 15 - Con du diên",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p15.mp3"
+        },
+        {
+          "chapter": 16,
+          "name": "Chương 16 - Canh cá",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p16.mp3"
+        },
+        {
+          "chapter": 17,
+          "name": "Chương 17 - Động bách nhãn",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p17.mp3"
+        },
+        {
+          "chapter": 18,
+          "name": "Chương 18 - Tranh khắc rồng",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p18.mp3"
+        },
+        {
+          "chapter": 19,
+          "name": "Chương 19 - Dẫn hồn kê",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p19.mp3"
+        },
+        {
+          "chapter": 20,
+          "name": "Chương 20 - Quái lâu",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p20.mp3"
+        },
+        {
+          "chapter": 21,
+          "name": "Chương 21 - Hung thiết",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p21.mp3"
+        },
+        {
+          "chapter": 22,
+          "name": "Chương 22 - Ngọn đèn lẻ loi",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p22.mp3"
+        },
+        {
+          "chapter": 23,
+          "name": "Chương 23 - Người thứ năm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p23.mp3"
+        },
+        {
+          "chapter": 24,
+          "name": "Chương 24 - Trăm vảy gấm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p24.mp3"
+        },
+        {
+          "chapter": 25,
+          "name": "Chương 25 - Âm hồn bất tán",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p25.mp3"
+        },
+        {
+          "chapter": 26,
+          "name": "Chương 26 - Cương thi",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p26.mp3"
+        },
+        {
+          "chapter": 27,
+          "name": "Chương 27 - Quy miên địa",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p27.mp3"
+        },
+        {
+          "chapter": 28,
+          "name": "Chương 28 - Túi đồ kiểu Nga",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p28.mp3"
+        },
+        {
+          "chapter": 29,
+          "name": "Chương 29 - Cốc tai Motolov",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p29.mp3"
+        },
+        {
+          "chapter": 30,
+          "name": "Chương 30 - Tinh biến",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p30.mp3"
+        },
+        {
+          "chapter": 31,
+          "name": "Chương 31 - Cái hang kinh hoàng",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p31.mp3"
+        },
+        {
+          "chapter": 32,
+          "name": "Chương 32 - Thuật đọc tâm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p32.mp3"
+        },
+        {
+          "chapter": 33,
+          "name": "Chương 33 - Cổ vật nghìn năm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p33.mp3"
+        },
+        {
+          "chapter": 34,
+          "name": "Chương 34 - Phiên hiệu số \"0\"",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p34.mp3"
+        },
+        {
+          "chapter": 35,
+          "name": "Chương 35 - Xác chết trong hầm đất",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p35.mp3"
+        },
+        {
+          "chapter": 36,
+          "name": "Chương 36 - Phòng cấm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p36.mp3"
+        },
+        {
+          "chapter": 37,
+          "name": "Chương 37 - Mặt nạ",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p37.mp3"
+        },
+        {
+          "chapter": 38,
+          "name": "Chương 38 - Chất chống thối rữa",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p38.mp3"
+        },
+        {
+          "chapter": 39,
+          "name": "Chương 39 - Tủ cất giữ tiêu bản",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p39.mp3"
+        },
+        {
+          "chapter": 40,
+          "name": "Chương 40 - Thủ cung sa",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p40.mp3"
+        },
+        {
+          "chapter": 41,
+          "name": "Chương 41 - Lão Dương Bì, kẻ trộm mộ",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p41.mp3"
+        },
+        {
+          "chapter": 42,
+          "name": "Chương 42 - Đường không lối về",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p42.mp3"
+        },
+        {
+          "chapter": 43,
+          "name": "Chương 43 - Mộng",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p43.mp3"
+        },
+        {
+          "chapter": 44,
+          "name": "Chương 44 - Con đường tăm tối",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p44.mp3"
+        },
+        {
+          "chapter": 45,
+          "name": "Chương 45 - Điện Diêm La",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p45.mp3"
+        },
+        {
+          "chapter": 46,
+          "name": "Chương 46 - Giếng vàng",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p46.mp3"
+        },
+        {
+          "chapter": 47,
+          "name": "Chương 47 - Thủy Đảm",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p47.mp3"
+        },
+        {
+          "chapter": 48,
+          "name": "Chương 48 - Thiệt lậu",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p48.mp3"
+        },
+        {
+          "chapter": 49,
+          "name": "Chương 49 - Phần phong",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p49.mp3"
+        },
+        {
+          "chapter": 50,
+          "name": "Chương 50 - Huyệt sâu tám thước",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p50.mp3"
+        },
+        {
+          "chapter": 51,
+          "name": "Chương 51 - Sấm sét",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p51.mp3"
+        },
+        {
+          "chapter": 52,
+          "name": "Chương 52 - Sinh ly tử biệt",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p52.mp3"
+        },
+        {
+          "chapter": 53,
+          "name": "Chương 53 - Trùm trộm mộ phái Xả Lĩnh",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p53.mp3"
+        },
+        {
+          "chapter": 54,
+          "name": "Chương 54 - Yêu hóa long",
+          "link": "https://archive.org/download/ma-thoi-den-t5-p48/ma-thoi-den-t5-p54end.mp3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nam Hải Quy Khư",
+      "chapters": [
+        {
+          "chapter": 1,
+          "name": "Chương 1 - Tổ sư trộm mộ",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_01.mp3"
+        },
+        {
+          "chapter": 2,
+          "name": "Chương 2 - Tần vương chiêu cốt kính",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_02.mp3"
+        },
+        {
+          "chapter": 3,
+          "name": "Chương 3 - Long hỏa",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_03.mp3"
+        },
+        {
+          "chapter": 4,
+          "name": "Chương 4 - Cá nuốt thuyền",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_04.mp3"
+        },
+        {
+          "chapter": 5,
+          "name": "Chương 5 - Ban sơn trấn hải",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_05.mp3"
+        },
+        {
+          "chapter": 6,
+          "name": "Chương 6 - Thanh đầu",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_06.mp3"
+        },
+        {
+          "chapter": 7,
+          "name": "Chương 7 - Cổ ngọc dưới biển",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_07.mp3"
+        },
+        {
+          "chapter": 8,
+          "name": "Chương 8 - Tàu chĩa ba",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_08.mp3"
+        },
+        {
+          "chapter": 9,
+          "name": "Chương 9 - Cấm kỵ khi đi biển",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_09.mp3"
+        },
+        {
+          "chapter": 10,
+          "name": "Chương 10 - Bóng ma",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_10.mp3"
+        },
+        {
+          "chapter": 11,
+          "name": "Chương 11 - Con tàu ma",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_11.mp3"
+        },
+        {
+          "chapter": 12,
+          "name": "Chương 12 - Họa ập xuống đầu",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_12.mp3"
+        },
+        {
+          "chapter": 13,
+          "name": "Chương 13 - Thủy thần pháo Kumbhira",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_13.mp3"
+        },
+        {
+          "chapter": 14,
+          "name": "Chương 14 - Long Thượng Thủy",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_14.mp3"
+        },
+        {
+          "chapter": 15,
+          "name": "Chương 15 - Quan tài nổi",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_15.mp3"
+        },
+        {
+          "chapter": 16,
+          "name": "Chương 16 - Khoang đáy",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_16.mp3"
+        },
+        {
+          "chapter": 17,
+          "name": "Chương 17 - Thủy triều",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_17.mp3"
+        },
+        {
+          "chapter": 18,
+          "name": "Chương 18 - Xuống biển dò Nam Long",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_18.mp3"
+        },
+        {
+          "chapter": 19,
+          "name": "Chương 19 - Ốc ngậm ngọc",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_19.mp3"
+        },
+        {
+          "chapter": 20,
+          "name": "Chương 20 - Dưa trôi dụ cá",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_20.mp3"
+        },
+        {
+          "chapter": 21,
+          "name": "Chương 21 - Quái vật biển",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_21.mp3"
+        },
+        {
+          "chapter": 22,
+          "name": "Chương 22 - Xà cừ",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p_22.mp3"
+        },
+        {
+          "chapter": 23,
+          "name": "Chương 23 - Khinh núi chớ khinh biển",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p23.mp3"
+        },
+        {
+          "chapter": 24,
+          "name": "Chương 24 - Không lối ra",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p24.mp3"
+        },
+        {
+          "chapter": 25,
+          "name": "Chương 25 - Cú nhảy kinh hoàng",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p25.mp3"
+        },
+        {
+          "chapter": 26,
+          "name": "Chương 26 - Quy khư",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p26.mp3"
+        },
+        {
+          "chapter": 27,
+          "name": "Chương 27 - Vực dưới biển bụng cá voi",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p27.mp3"
+        },
+        {
+          "chapter": 28,
+          "name": "Chương 28 - Rồng",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p28.mp3"
+        },
+        {
+          "chapter": 29,
+          "name": "Chương 29 - Nghĩa địa tàu đắm",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p29.mp3"
+        },
+        {
+          "chapter": 30,
+          "name": "Chương 30 - Ma",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p30.mp3"
+        },
+        {
+          "chapter": 31,
+          "name": "Chương 31 - Đàn cá mập",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p31.mp3"
+        },
+        {
+          "chapter": 32,
+          "name": "Chương 32 - Hộp báu",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p27/ma-thoi-den-t6-p32.mp3"
+        },
+        {
+          "chapter": 33,
+          "name": "Chương 33 - Mực khổng lồ",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p33.mp3"
+        },
+        {
+          "chapter": 34,
+          "name": "Chương 34 - Nước sâu lửa nóng",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p34.mp3"
+        },
+        {
+          "chapter": 35,
+          "name": "Chương 35 - Mãnh quỷ sổ lồng",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p35.mp3"
+        },
+        {
+          "chapter": 36,
+          "name": "Chương 36 - Nước tù không có rồng",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-tap-6-p36.MP3"
+        },
+        {
+          "chapter": 37,
+          "name": "Chương 37 - Hải hòa thượng",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-tap-6-p37_%28new%29.mp3"
+        },
+        {
+          "chapter": 38,
+          "name": "Chương 38 - Điện đồng",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p38.mp3"
+        },
+        {
+          "chapter": 39,
+          "name": "Chương 39 - Xạ nhật",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p39.mp3"
+        },
+        {
+          "chapter": 40,
+          "name": "Chương 40 - Có gân mà chẳng có xương",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p40.mp3"
+        },
+        {
+          "chapter": 41,
+          "name": "Chương 41 - Xác mồi",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/Ma%20-%20Thoi%20-%20Den%20-%20T6%20-%20P41.mp3"
+        },
+        {
+          "chapter": 42,
+          "name": "Chương 42 - Định hải thần châm",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/Ma%20-%20Thoi%20-%20Den%20-%20T6%20-%20P42.mp3"
+        },
+        {
+          "chapter": 43,
+          "name": "Chương 43 - Bôn nguyệt",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p43.mp3"
+        },
+        {
+          "chapter": 44,
+          "name": "Chương 44 - Cương nhân nam hải",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p44.mp3"
+        },
+        {
+          "chapter": 45,
+          "name": "Chương 45 - Thực thiên",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p45.mp3"
+        },
+        {
+          "chapter": 46,
+          "name": "Chương 46 - Đỉnh Cổ",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-p46.mp3"
+        },
+        {
+          "chapter": 47,
+          "name": "Chương 47 - Chân kinh bách lý",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-p47.mp3"
+        },
+        {
+          "chapter": 48,
+          "name": "Chương 48 - Long huyệt",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p48.mp3"
+        },
+        {
+          "chapter": 49,
+          "name": "Chương 49 - Chân mẫu hải",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p49.mp3"
+        },
+        {
+          "chapter": 50,
+          "name": "Chương 50 - Giết trai lấy ngọc",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p50.mp3"
+        },
+        {
+          "chapter": 51,
+          "name": "Chương 51 - Vầng trăng ma quỷ",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p51.mp3"
+        },
+        {
+          "chapter": 52,
+          "name": "Chương 52 - Giao lão",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p52.mp3"
+        },
+        {
+          "chapter": 53,
+          "name": "Chương 53 - Tuyệt cảnh",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p53.mp3"
+        },
+        {
+          "chapter": 54,
+          "name": "Chương 54 - Quá long binh",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p54.mp3"
+        },
+        {
+          "chapter": 55,
+          "name": "Chương 55 - Người Hà Lan bay",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p55.mp3"
+        },
+        {
+          "chapter": 56,
+          "name": "Chương 56 - Cứu mạng",
+          "link": "https://archive.org/download/ma-thoi-den-t6-p45_201511/ma-thoi-den-t6-p56end.mp3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Thi Vương Tương Tây",
+      "chapters": [
+        {
+          "chapter": 1,
+          "name": "Chương 1: Lưu Ly xưởng",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp01.MP3"
+        },
+        {
+          "chapter": 2,
+          "name": "Chương 2: Na tra bát tý",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp02.MP3"
+        },
+        {
+          "chapter": 3,
+          "name": "Chương 3: Câu chuyện đào mộ",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp03.MP3"
+        },
+        {
+          "chapter": 4,
+          "name": "Chương 4: Nghĩa trang lão hùng",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp04.MP3"
+        },
+        {
+          "chapter": 5,
+          "name": "Chương 5: Hao tử nhị cô",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp05.MP3"
+        },
+        {
+          "chapter": 6,
+          "name": "Chương 6: Thuật tống xác",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp06.MP3"
+        },
+        {
+          "chapter": 7,
+          "name": "Chương 7: Cắn tai",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp07.MP3"
+        },
+        {
+          "chapter": 8,
+          "name": "Chương 8: Rửa ruột",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp08.MP3"
+        },
+        {
+          "chapter": 9,
+          "name": "Chương 9: Bia báo cổ",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp09.MP3"
+        },
+        {
+          "chapter": 10,
+          "name": "Chương 10: Thám bình sơn",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp10.MP3"
+        },
+        {
+          "chapter": 11,
+          "name": "Chương 11: Tiểu đoàn công binh",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp11.MP3"
+        },
+        {
+          "chapter": 12,
+          "name": "Chương 12: Đất dời thây",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp12.MP3"
+        },
+        {
+          "chapter": 13,
+          "name": "Chương 13: Tan chảy",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp13.MP3"
+        },
+        {
+          "chapter": 14,
+          "name": "Chương 14: Cưỡi mây đạp gió",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp14.MP3"
+        },
+        {
+          "chapter": 15,
+          "name": "Chương 15: Con rết sáu cánh",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp15.MP3"
+        },
+        {
+          "chapter": 16,
+          "name": "Chương 16: Trùng môn chống trộm",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp16.MP3"
+        },
+        {
+          "chapter": 17,
+          "name": "Chương 17: Ủng thành",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp17.MP3"
+        },
+        {
+          "chapter": 18,
+          "name": "Chương 18: Nỏ thần tí sàng tử",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp18.MP3"
+        },
+        {
+          "chapter": 19,
+          "name": "Chương 19: Cạm bẫy liên hoàn vô hạn vĩnh cửu",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp19.MP3"
+        },
+        {
+          "chapter": 20,
+          "name": "Chương 20: Thoát chết trong gang tấc",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp20.MP3"
+        },
+        {
+          "chapter": 21,
+          "name": "Chương 21: Bản kim phong",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp21.MP3"
+        },
+        {
+          "chapter": 22,
+          "name": "Chương 22: Chó không quá tám năm, gà không qua sáu tuổi",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp22.MP3"
+        },
+        {
+          "chapter": 23,
+          "name": "Chương 23: Tài kê lệnh",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp23.MP3"
+        },
+        {
+          "chapter": 24,
+          "name": "Chương 24: Sơn âm",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp24.MP3"
+        },
+        {
+          "chapter": 25,
+          "name": "Chương 25: Phân sơn quật tử giáp",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp25.MP3"
+        },
+        {
+          "chapter": 26,
+          "name": "Chương 26: Huyệt lăng",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp26.MP3"
+        },
+        {
+          "chapter": 27,
+          "name": "Chương 27: Đấu cung",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp27.MP3"
+        },
+        {
+          "chapter": 28,
+          "name": "Chương 28: Cường địch",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp28.MP3"
+        },
+        {
+          "chapter": 29,
+          "name": "Chương 29: Giả chết",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp29.MP3"
+        },
+        {
+          "chapter": 30,
+          "name": "Chương 30: Lò luyện đơn",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp30.MP3"
+        },
+        {
+          "chapter": 31,
+          "name": "Chương 31: Tiên cảnh điêu tàn",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp31.MP3"
+        },
+        {
+          "chapter": 32,
+          "name": "Chương 32: Vân Tàng bảo điện",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp32.MP3"
+        },
+        {
+          "chapter": 33,
+          "name": "Chương 33: Sương ẩn hành lang",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp33.MP3"
+        },
+        {
+          "chapter": 34,
+          "name": "Chương 34: Quan sơn thái bảo",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp34.MP3"
+        },
+        {
+          "chapter": 35,
+          "name": "Chương 35: Núi có tam hương",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp35.MP3"
+        },
+        {
+          "chapter": 36,
+          "name": "Chương 36: Núi cao rung chuyển",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp36.MP3"
+        },
+        {
+          "chapter": 37,
+          "name": "Chương 37: Trong màn đêm",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp37.MP3"
+        },
+        {
+          "chapter": 38,
+          "name": "Chương 38: Vượn trắng",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp38.MP3"
+        },
+        {
+          "chapter": 39,
+          "name": "Chương 39: Khều xác",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp39.MP3"
+        },
+        {
+          "chapter": 40,
+          "name": "Chương 40: Hắc tì bà",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp40.MP3"
+        },
+        {
+          "chapter": 41,
+          "name": "Chương 41: Thi vương Tương Tây",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp41.MP3"
+        },
+        {
+          "chapter": 42,
+          "name": "Chương 42: Hổ xa",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp42.MP3"
+        },
+        {
+          "chapter": 43,
+          "name": "Chương 43: Càn khôn lộn ngược",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp43.MP3"
+        },
+        {
+          "chapter": 44,
+          "name": "Chương 44: Hút hồn",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp44.MP3"
+        },
+        {
+          "chapter": 45,
+          "name": "Chương 45: Khôi Tinh Thích Đẩu",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp45.MP3"
+        },
+        {
+          "chapter": 46,
+          "name": "Chương 46: Bác long trận",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp46.MP3"
+        },
+        {
+          "chapter": 47,
+          "name": "Chương 47: Lập lời nguyền",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp47.MP3"
+        },
+        {
+          "chapter": 48,
+          "name": "Chương 48: Điểm danh trạng",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp48.MP3"
+        },
+        {
+          "chapter": 49,
+          "name": "Chương 49: Giang hồ\nChương 50: Thầy phong thủy",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp49.MP3"
+        },
+        {
+          "chapter": 51,
+          "name": "Chương 51: Bảo tàng tự nhiên\nChương 52: Đêm khuya tĩnh lặng",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp50.MP3"
+        },
+        {
+          "chapter": 53,
+          "name": "Chương 53: Cầu huyền trong phủ",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp51.MP3"
+        },
+        {
+          "chapter": 54,
+          "name": "Chương 54: Cuốn nhật ký thất lạc",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp52.MP3"
+        },
+        {
+          "chapter": 55,
+          "name": "Chương 55: Dối trên gạt dưới\nChương 56: Tới thăm chuyên gia giải mê văn ám thị",
+          "link": "https://archive.org/download/mathoiden-thivuongtuongtay/mathoiden-thivuongtuongtayp53.MP3"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Vu Hiệp Quan Sơn",
+      "chapters": [
+        {
+          "chapter": 1,
+          "name": "Chương 1: Mộ cổ thôn Địa Thiên",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2001.mp3"
+        },
+        {
+          "chapter": 2,
+          "name": "Chương 2: Kẻ chạy trốn",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2002.mp3"
+        },
+        {
+          "chapter": 3,
+          "name": "Chương 3: Mây che mù mịt biết là đi đâu\nChương 4: Bí mật trong chấn nhỏ",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2003.mp3"
+        },
+        {
+          "chapter": 5,
+          "name": "Chương 5: Cái hộp đen\nChương 6: Đường năm thước",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2004.mp3"
+        },
+        {
+          "chapter": 7,
+          "name": "Chương 7: Khu vực bị xóa khỏi bản đồ\nChương 8: Hầm phòng không Thanh Kê",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2005.mp3"
+        },
+        {
+          "chapter": 9,
+          "name": "Chương 9: Còi báo động máy bay tập kích\nChương 10: Hẻm núi quan tài",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%206.mp3"
+        },
+        {
+          "chapter": 11,
+          "name": "Chương 11: Lò mổ trong núi sâu\nChương 12: Đại vương không đầu",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%207.mp3"
+        },
+        {
+          "chapter": 13,
+          "name": "Chương 13: Người chết thân phận bất minh\nChương 14: Thiên hiểm vô hình",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%208.mp3"
+        },
+        {
+          "chapter": 15,
+          "name": "Chương 15: Cầu hách hồn\nChương 16: Kim giáp mao tiên",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%209.mp3"
+        },
+        {
+          "chapter": 17,
+          "name": "Chương 17: Chưởng tâm lôi\nChương 18: Xác chết không thối rữa",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2010.mp3"
+        },
+        {
+          "chapter": 19,
+          "name": "Chương 19: Quan tài ẩn sĩ",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2011.mp3"
+        },
+        {
+          "chapter": 20,
+          "name": "Chương 20: Khỉ ba sơn",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2012.mp3"
+        },
+        {
+          "chapter": 21,
+          "name": "Chương 21: Lời nhắn viết trên vỏ bao thuốc lá",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2013.mp3"
+        },
+        {
+          "chapter": 22,
+          "name": "Chương 22: Khóa cửa cung ly hổ",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2014.mp3"
+        },
+        {
+          "chapter": 23,
+          "name": "Chương 23: Thần bút",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2015.mp3"
+        },
+        {
+          "chapter": 24,
+          "name": "Chương 24: Trong đất có núi",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2016.mp3"
+        },
+        {
+          "chapter": 25,
+          "name": "Chương 25: Vẽ cửa",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2017%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 26,
+          "name": "Chương 26: Thập bát loạn táng",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2018%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 27,
+          "name": "Chương 27: Thi trùng",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2019%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 28,
+          "name": "Chương 28: Ác ma",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2020%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 29,
+          "name": "Chương 29: Quỷ mị",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2021%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 30,
+          "name": "Chương 30: Đỗ tiên",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2022%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 31,
+          "name": "Chương 31: Xác không hồn",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2023%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 32,
+          "name": "Chương 32: Không vong",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2024%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 33,
+          "name": "Chương 33: Vũ hầu tàng binh đồ",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2025%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 34,
+          "name": "Chương 34: Yêu thuật",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2026%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 35,
+          "name": "Chương 35: Khó tin",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2027%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 36,
+          "name": "Chương 36: Bài ca nướng bánh",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2028%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 37,
+          "name": "Chương 37: Quan sơn cốt đồ",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2029%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 38,
+          "name": "Chương 38: Cửu tử kinh lăng giáp",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2030%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 39,
+          "name": "Chương 39: Cái chết không hẹn mà đến",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2031%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 40,
+          "name": "Chương 40: Thiên địa vô môn",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2032%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 41,
+          "name": "Chương 41: Miếu pháo thần",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2033%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 42,
+          "name": "Chương 42: Lối thoát khẩn cấp",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2034%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 43,
+          "name": "Chương 43: Điềm xấu",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2035%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 44,
+          "name": "Chương 44: Quan sơn tướng trạch đồ",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20%20Ph%E1%BA%A7n%2036%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 45,
+          "name": "Chương 45: Kỳ ngộ",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2037%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 46,
+          "name": "Chương 46: Bàn cổ thần mạch",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2038%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 47,
+          "name": "Chương 47: Kỵ lửa",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2039%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 48,
+          "name": "Chương 47: Kỵ lửa",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2040%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 49,
+          "name": "Chương 49: Thắp nến đi đêm",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2041%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 50,
+          "name": "Chương 50: Linh tinh môn",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2042%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 51,
+          "name": "Chương 51: Bia cáo tế",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2043%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 52,
+          "name": "Chương 52: Một phần vạn",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2044%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 53,
+          "name": "Chương 53: Thừng trói tiên",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2045%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 54,
+          "name": "Chương 54: Hỏa thiêu",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2046%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 55,
+          "name": "Chương 55: Quái vật",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2047%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 56,
+          "name": "Chương 56: Kiếp nạn khó thoát",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2048%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 57,
+          "name": "Chương 57: Lời tiên tri",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2049%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 58,
+          "name": "Chương 58: Ngọn núi lớn di động",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2050%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 59,
+          "name": "Chương 59: Hiện tượng siêu nhiên",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2051%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 60,
+          "name": "Chương 60: Quan tài treo",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2052%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 61,
+          "name": "Chương 61: Long thị",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2053%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 62,
+          "name": "Chương 62: Thiên nộ",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2054%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 63,
+          "name": "Chương 63: Người bạn thầm lặng",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2055%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 64,
+          "name": "Chương 64: Cửu tử hoàn hồn thảo",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2056%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 65,
+          "name": "Chương 65: Kim điểm",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2057%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 66,
+          "name": "Chương 66: Mũ ma",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20Ph%E1%BA%A7n%2058%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 67,
+          "name": "Chương 67: Sổ ghi chép",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2059%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 68,
+          "name": "Chương 68: Rửa tay chậu vàng",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2060%20-%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
+        },
+        {
+          "chapter": 69,
+          "name": "Chương 69: Vật cực tất phản\nChương 70: Kỷ nguyên",
+          "link": "https://archive.org/download/mathoidenvusonquanhiep/Ma%20Th%E1%BB%95i%20%C4%90%C3%A8n%20T%E1%BA%ADp%208%20Ph%E1%BA%A7n%2061%20-%20Ph%E1%BA%A7n%20cu%E1%BB%91i%20-%20%20Nguy%E1%BB%85n%20Th%C3%A0nh.mp3"
         }
       ]
     }
